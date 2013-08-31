@@ -4,6 +4,10 @@
 (function(jQuery, $, window, undefined) {
 
   // Document ready.
+
+
+  // Window load.
+  $(window).load(function(){
   $(function(){
       $.localScroll();
 
@@ -12,10 +16,6 @@
       });
 
   });
-
-  // Window load.
-  $(window).load(function(){
-
   });
 })(jQuery, $, window);
 
