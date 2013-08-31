@@ -1,5 +1,5 @@
 body {
-	font-family: UniversNextW01-Regular;
+	font-family: 'Roboto', sans-serif;
 	background-color: rgba(219,219,219,1);
 	font-style: normal;
 	font-weight: 400;
@@ -14,7 +14,7 @@ blockquote {
 	text-align: left;
 	color: rgba(255,255,255,1);
 	display: inline;
-	font-family: "Univers Next W01 Light";
+	font-family: 'Roboto', sans-serif;
 	margin-bottom: 25px;
 	background-color: rgba(252,189,189,1);
 	letter-spacing: 1px;
@@ -44,7 +44,7 @@ h2 {
 
 
 h4 {
-	font-family: UniversNextW01-Regular;
+	font-family: 'Roboto', sans-serif;
 	margin-bottom: 25px;
 	font-size: 24px;
 	color: white;
@@ -74,7 +74,7 @@ p {
 	margin-bottom: 25px;
 	font-style: normal;
 	font-weight: 400;
-	font-family: UniversNextW01-Regular;
+	font-family: 'Roboto', sans-serif;
 	letter-spacing: 1px;
 	text-align: justify;
 	color: rgba(48,48,48,1);
@@ -86,7 +86,7 @@ li {
 	margin-bottom: 10px;
 	font-style: normal;
 	font-weight: 400;
-	font-family: UniversNextW01-Regular;
+	font-family: 'Roboto', sans-serif;
 	letter-spacing: 1px;
 	text-align: justify;
 	color: rgba(48,48,48,1);
